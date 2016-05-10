@@ -1,7 +1,7 @@
 !#/bin/bash
 
-m="changed"
-
+m="Original"
+dswffw
 echo "hello,this is a test file"
 
 echo "$m"
