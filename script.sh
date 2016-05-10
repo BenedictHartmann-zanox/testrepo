@@ -1,6 +1,6 @@
 !#/bin/bash
 
-m="Original"
+m="changed"
 
 echo "hello,this is a test file"
 
